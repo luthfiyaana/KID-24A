@@ -1,1 +1,3 @@
-Commit signed test 
+ini percobaan commit
+commit kid 24-a
+luthfiana syakira eka ramadani
